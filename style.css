@@ -810,7 +810,7 @@
     }
 
     .project-card:nth-child(even) .project-visual { order: 0; }
-    .project-detail-inner { padding: 1.5rem; }
+    .project-detail-inner { padding: 1rem; }
 
     .cv-grid { grid-template-columns: 1fr; gap: 2.5rem; }
     section { padding: 4rem 1.5rem; }
